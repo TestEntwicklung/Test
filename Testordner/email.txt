@@ -1,0 +1,19 @@
+Hinweis zur Abgabe unter GIT
+von Iwan Guranov - Donnerstag, 23. Oktober 2014, 11:52
+ 
+Liebe Studierende,
+
+abzugeben ist Ihre gesamte Dateistruktur (nur Originaldateien sowie die Inhalte des BAckup-Verzeichnisses, keine backups oder Renderings).
+
+Gehen Sie bitte folgendermaßen für die Abgabe vor:
+
+führen sie ein GIT-Clone aus. Nutzen Sie die URL:
+GIT-Repository
+Legen Sie ein Verzeichnis mit dem Muster an:
+nn-ab (wobei nn Ihre Nummer ist und ab ihre Initialen) 
+kopieren Sie Ihre Datenstruktur in das Verzeichnis nn-ab
+Führen Sie ein Commit durch
+Syncen Sie Ihr GIT mit Push
+
+GF8Ta2Ft9qg6
+
